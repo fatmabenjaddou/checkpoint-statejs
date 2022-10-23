@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+img {
+  font-size: xx-large;
+  height: 300px;
+  border: radius 20px;
+  width: 300px;
+  border-radius: 200%;
+  
+}
+body {
+  background-color: beige;
+}
+
+.faty{
+  font-style: oblique;
+  color: black
+  
+}
